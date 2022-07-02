@@ -1,1 +1,1 @@
-# ASCII-border
+Simple ASCII text border generator
